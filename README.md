@@ -34,3 +34,9 @@ El proyecto es ideal para aplicaciones que requieren integración con enlaces ex
    ```bash
    git clone https://github.com/tu_usuario/Universal_Links_Prueba_01.git
    cd Universal_Links_Prueba_01
+
+## Evidencia
+
+<p align="center">
+  <img src="https://github.com/vguarnizo/Universal_Links_Prueba_01/blob/main/Evidence/Universal_Links.gif" width="320" alt="Evidencia de uso">
+</p>
